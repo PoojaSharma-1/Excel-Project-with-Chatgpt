@@ -53,4 +53,4 @@ To improve business:
 5.  Strengthen presence in top-performing cities.
 6.  Leverage the high sales from Myntra and explore strategies to boost sales from Ajio, Amazon, and Meesho.
 
-![image alt](image_url)
+![image alt](https://github.com/PoojaSharma-1/Excel-Project-with-Chatgpt/blob/97260b27ab75ce5421a5af8a8d4ec3e1f1047b26/Excel%20dashboard.png)
